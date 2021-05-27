@@ -1618,8 +1618,7 @@
 			}
 
 	#header-wrapper {
-		background: #444466;
-		background-image: linear-gradient(135deg,  #7c547c 0%, #444466 50%);
+		background: #020346;
 	}
 
 		#header-wrapper:before {
@@ -1632,7 +1631,7 @@
 		}
 
 	#footer-wrapper {
-		background: #4E354E;
+		background: #020346;
 		color: #FFF;
 	}
 
@@ -1990,18 +1989,18 @@
 
 			#logo {
 				position: absolute;
-				top: 20%;
+				top: 0;
 				left: 0;
 				width: 100%;
 				text-align: center;
 			}
 
-			.homepage #logo {
-				margin-top: -1em;
-			}
-
 			#logo h1 {
-				font-size: 2em;
+				font-size: 36px;
+				position: absolute;
+				top: 88%;
+				left: 0;
+				width: 100%;
 				letter-spacing: 0.25em;
 			}
 
